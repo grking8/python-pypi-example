@@ -1,7 +1,7 @@
 from setuptools import setup
 
 
-package_name = 'pyexample'
+package_name = 'python-pypi-example'
 version = '0.0.1'
 classifiers = [
     'Development Status :: 1 - Planning',

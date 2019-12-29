@@ -14,6 +14,7 @@ classifiers = [
 setup(
     name=package_name,
     version=version,
+    python_requires='=3.6',
     packages=find_packages(),
     classifiers=classifiers,
     author='Guy King',
